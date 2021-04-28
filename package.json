@@ -1,6 +1,6 @@
 {
   "name": "leet-decode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "leet decoder",
   "main": "./src/leetmap.js",
   "scripts": {
