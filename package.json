@@ -14,7 +14,7 @@
     "node": ">=6",
     "npm": ">=5"
   },
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "leetscript": "^1.1.0",
     "lodash": "^4.17.21"
