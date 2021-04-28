@@ -20,9 +20,10 @@ const result = decode('h3ll0');
 // results -> ['hello']
 ```
 
-##See Also
+## See Also
 
 [leetscript](https://github.com/KevinGimbel/leetscript)
+
 [@cityssm/unleet](https://github.com/cityssm/unleet)
 
 ## License
